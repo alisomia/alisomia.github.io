@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /404.html
+permalink: /website/
 title: "Website redirected"
 redirect: true
 ---

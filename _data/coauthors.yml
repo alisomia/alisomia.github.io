@@ -2,33 +2,27 @@
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"christiansen":
+  - firstname: ["Snorre", "Snorre H."]
+    url: https://www.mn.uio.no/math/english/people/aca/snorrec/index.html
+"dong":
+  - firstname: ["bin"]
+    url: http://faculty.bicmr.pku.edu.cn/~dongbin/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"li":
+  - firstname: ["Qianxiao"]
+    url: https://blog.nus.edu.sg/qianxiaoli/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"shen": 
+  - firstname: ["Zuowei"]
+    url: https://blog.nus.edu.sg/matzuows/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"zhang":
+  - firstname: ["Qian"]
+    url: https://pages.mtu.edu/~qzhang15/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"hu":
+  - firstname: ["Kaibo"]
+    url: https://kaibohu.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck

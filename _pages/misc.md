@@ -23,8 +23,11 @@ toc:
   
    
 ## Talks
-1. Invited talk, Zhejiang University.
-1. Invited talk, Visual Computing and Learning Lab, Peking University, 13 Dec 2024.
+1. Invited talk, ETH Z\"urich, Z\"urich, Switzerland. 7 May 2025.
+1. Invited talk, China University of Geosciences, Wuhan, China. 24 Mar 2025. 
+1. Invited talk, Wuhan University, Wuhan, China. 22 Mar 2025.
+1. Invited talk, Zhejiang University, Hangzhou, China. 15 Jan 2025.
+1. Invited talk, Visual Computing and Learning Lab, Peking University, Bejing, China. 13 Dec 2024.
 1.  Invited talk, Numerical Analysis Group, Mathematical Institute, University of Oxford, Oxford, UK, 31 Oct 2024.
 1. Invited talk, AGATE, University of Edinburgh, Edinburgh, UK, 22 Oct 2024.
 1. Minisymposium talk, WCMM 2024, Vancouer, Canada, Aug 2024. (Online)

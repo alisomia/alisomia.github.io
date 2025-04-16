@@ -12,8 +12,13 @@ toc:
 
 
 ## Education
-- 2017 - 2021, B.Sc., Peking University.
-- 2021 - 2026, Ph.D., Peking University.
+- 2017 - 2021, B.Sc., Peking University, China.
+- 2021 - 2026, Ph.D., Peking University, China.
+
+Also, I have been a visiting student in 
+- National University of Singapore, Singapore, Sep 2023 - Jan 2024, Under the supervision of Prof. Zuowei Shen and Prof. Qianxiao Li
+- École Polytechnique Fédérale de Lausanne, Switzerland, Apr 2025 - May 2025, Under the supervision of Prof. Annalisa Buffa.
+
 
 ## Selected Honors and Awards
 
@@ -30,15 +35,14 @@ toc:
 - Mathematical Analysis (III), 2021 Fall. Instructor: Prof. Shaobo Gan
 - Introduction to Applied Mathematics, 2022 Spring. Instructor: Prof. Jun Hu
 - Introduction to Modern Applied Mathematics, 2022 Fall. Instructor: Prof. Weinan E, Prof. Jun Hu.
-- Mathematical Analysis (I), 2024 Fall. Instructor: Prof. Shiwu Yang.
- I am maintaining a lecture notes for the tutorial (in Chinese).                                                                  
+- Mathematical Analysis (I), 2024 Fall. Instructor: Prof. Shiwu Yang.                                                  
   
-## Visiting
+<!-- ## Visiting
+- Wuhan Univer
 - Oxford University, Oxford, Oct 2024
 - University of Edinburgh, Edinburgh, UK, Oct 2024
 - Chinese University Hong Kong, Shenzhen, China, Jul 2024
 - Oslo University, Oslo, Norway, Jun 2024
 - Xiangtan University, Xiangtan, China, May 2024
 - ETH Zürich, Zürich, Switzerland, Apr 2024
-- National University of Singapore, Singapore, Sep 2023 - Jan 2024
-- National University of Singapore, Singapore. Jul 2019 - Aug 2019
+- National University of Singapore, Singapore. Jul 2019 - Aug 2019 -->

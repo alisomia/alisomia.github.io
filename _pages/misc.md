@@ -23,7 +23,7 @@ toc:
   
    
 ## Talks
-1. Invited talk, ETH Z\"urich, Z\"urich, Switzerland. 7 May 2025.
+1. Invited talk, Zürich colloquium in applied and computational mathematics, ETH Zürich, Zürich, Switzerland. 7 May 2025.
 1. Invited talk, China University of Geosciences, Wuhan, China. 24 Mar 2025. 
 1. Invited talk, Wuhan University, Wuhan, China. 22 Mar 2025.
 1. Invited talk, Zhejiang University, Hangzhou, China. 15 Jan 2025.

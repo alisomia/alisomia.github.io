@@ -23,6 +23,8 @@ toc:
 1. In 2022, I co-founded a student-run common room called Café Obtus (钝角咖啡) in our offices (Bldg. 21) at Peking University. The café has been well-received by students and faculty in the department. As a special offer, we provide a 25% discount to any guest who has won one of the following awards: the Fields Medal, the Wolf Prize, or the Abel Prize. So far, two guests have enjoyed this discount!
    
 ## Talks
+1. Minisymposium talk, Finite Element Annual Conference, Kunming, 30 Jul 2025.
+1. Ph.D. Forum talk, Finite Element Annual Conference, Kunming, 28 Jul 2025.
 1. Xiamen University, Xiamen, China. 24 Jul 2025.
 1. Jilin University, Changchun, China. 8 Jul 2025.
 1. Invited talk, Zürich colloquium in applied and computational mathematics, ETH Zürich, Zürich, Switzerland. 7 May 2025.

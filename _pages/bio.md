@@ -16,23 +16,27 @@ toc:
 - 2021 - 2026, Ph.D., Peking University, China.
 
 Also, I have been a visiting student in 
-- National University of Singapore, Singapore, Sep 2023 - Jan 2024, Under the supervision of Prof. Zuowei Shen and Prof. Qianxiao Li
+- The Hong Kong Polytechnic University, Hong Kong SAR, China, Aug 2025, Under the supervision of Prof. Buyang Li.
+- National University of Singapore, Singapore, Sep 2023 - Jan 2024, Under the supervision of Prof. Zuowei Shen and Prof. Qianxiao Li.
 - École Polytechnique Fédérale de Lausanne, Switzerland, Apr 2025 - May 2025, Under the supervision of Prof. Annalisa Buffa.
 
 
 ## Selected Honors and Awards
 
+- Best Paper Award, Finite Element Annual Conference (有限元年会), China, 2025.
+- National Scholarship (国家奖学金), Peking University, 2025.
 - EASIAM Best Paper Award, 1st Prize, 2023.
 - BICMR Mathematical Award for Graduate Students, 2022.
-- Principal Scholarship, Peking University, 2021, 2022.
-- Weiming Scholar for Undergraduate Students, Peking University, 2021.
-- Leo KoGuan Scholarship, Peking University, 2019.
+- Principal Scholarship (校长奖学金), Peking University, 2021, 2022.
+- Weiming Scholar for Undergraduate Students (未名学者), Peking University, 2021.
+<!-- - Leo KoGuan Scholarship, Peking University, 2019. -->
 - National Scholarship, The Ministry of Education, 2018.
 
   
 ## Teaching 
 
-- Mathematical Analysis (III), 2021 Fall. Instructor: Prof. Shaobo Gan
+### @ PKU
+- Mathematical Analysis (III), 2021 Fall. Instructor: Prof. Shaobo Gan.
 - Introduction to Applied Mathematics, 2022 Spring. Instructor: Prof. Jun Hu
 - Introduction to Modern Applied Mathematics, 2022 Fall. Instructor: Prof. Weinan E, Prof. Jun Hu.
 - Mathematical Analysis (I), 2024 Fall. Instructor: Prof. Shiwu Yang.                                                  
